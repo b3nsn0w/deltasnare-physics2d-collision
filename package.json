@@ -1,0 +1,22 @@
+{
+  "name": "@deltasnare/physics2d-collision",
+  "version": "1.0.0",
+  "description": "Polygon-to-polygon collision calculator for Deltasnare's physics engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nsn0w/deltasnare-physics2d-collision.git"
+  },
+  "author": "Ben Snow <balintbence97@gmail.com>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/b3nsn0w/deltasnare-physics2d-collision/issues"
+  },
+  "homepage": "https://github.com/b3nsn0w/deltasnare-physics2d-collision#readme",
+  "dependencies": {
+    "gl-matrix": "^2.8.1"
+  }
+}
